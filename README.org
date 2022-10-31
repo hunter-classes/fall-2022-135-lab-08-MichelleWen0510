@@ -6,7 +6,7 @@
 
 * GitHub username: MichelleWen0510
 
-* Notes:
+* Notes: Downloaded inImage.pgm, but eog still does not work.
 
 
   
